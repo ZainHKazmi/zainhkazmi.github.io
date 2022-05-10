@@ -20,4 +20,4 @@ Proceedings of the 26th ACM Conference on Innovation and Technology in Computer 
 
 - [Recommending Personalized Review Questions using Collaborative Filtering](https://cssplice.github.io/LAS20/proc/SPLICE_2020_LS_paper_2.pdf) \
 Z Kazmi, W Raisa, H Jhunjhunwala, L Zhang \
-Proceeding of the CS Splice workshop at ACM L@S 2020
+Proceedings of the CS Splice workshop at ACM L@S 2020
