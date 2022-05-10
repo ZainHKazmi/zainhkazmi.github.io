@@ -1,37 +1,23 @@
 ## Zain Kazmi
 
-You can use the [editor on GitHub](https://github.com/ZainHKazmi/zainhkazmi.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+## C.V. 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Principal Consultant at Execusoft Solutions Inc.   March 2020 - Present
 
-### Markdown
+## Publications
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+- [Designing Dissemination and Validation of a Framework for Teaching Cloud Fundamentals](https://dl.acm.org/doi/abs/10.1145/3502870.3506569) \
+James Paterson, Joshua Adams, Laurie White, Andrew Csizmadia, D Cenk Erdil, Derek Foster, Mark Hills, Zain Kazmi, Karthik Kuber, Sajid Nazir, Majd Sakr, Lee Stott \
+Proceedings of the 2021 Working Group Reports on Innovation and Technology in Computer Sceince Education 2021
 
-```markdown
-Syntax highlighted code block
+- [Planning a Conceptual Framework Approach for Teaching Cloud Fundamentals](https://dl.acm.org/doi/abs/10.1145/3456565.3461443) \
+James Paterson, Joshua Adams, Laurie White, Andrew Csizmadia, D Cenk Erdil, Derek Foster, Mark Hills, Zain Kazmi, Karthik Kuber, Sajid Nazir, Majd Sakr, Lee Stott \
+Proceedings of the 26th ACM Conference on Innovation and Technology in Computer Sceince Education		2021
 
-# Header 1
-## Header 2
-### Header 3
+- [SimpleDoc: Crowdsourcing Learning Materials from Learners](https://dl.acm.org/doi/abs/10.1145/3456565.3460069) \
+X Hou, O Hafez, Y Zhang, T Nagy, S Khalid, Z Kazmi \
+Proceedings of the 26th ACM Conference on Innovation and Technology in Computer Sceince Education		2021
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/ZainHKazmi/zainhkazmi.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+- [Recommending Personalized Review Questions using Collaborative Filtering](https://cssplice.github.io/LAS20/proc/SPLICE_2020_LS_paper_2.pdf) \
+Z Kazmi, W Raisa, H Jhunjhunwala, L Zhang \
+Proceeding of the CS Splice workshop at ACM L@S 2020
