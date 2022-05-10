@@ -1,5 +1,7 @@
 # Zain Kazmi
 
+Technology Consultant and Software Engineer. 
+
 ## Current Position(s)
 
 - Founder & Principal Consultant at Execusoft Solutions Inc. (March 2020 - Present) 
