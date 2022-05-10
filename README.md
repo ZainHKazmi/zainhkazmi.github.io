@@ -1,4 +1,4 @@
-## Zain Kazmi
+# Zain Kazmi
 
 ## Current Position(s)
 
