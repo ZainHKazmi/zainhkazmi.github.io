@@ -1,8 +1,17 @@
 ## Zain Kazmi
 
-## C.V. 
+## Current Position(s)
 
-Principal Consultant at Execusoft Solutions Inc.   March 2020 - Present
+- Founder & Principal Consultant at Execusoft Solutions Inc. (March 2020 - Present) 
+- Software Engineer at Ontario Health (Feb 2022 - Present)
+
+## Past Position(s)
+- Application Development Consultant at MCAN (2021)
+- Consultant, Solutions Development at Ontario Ministry of Transportation (2021)
+- Software Developer at Ontario Ministry of Health (2019 - 2020)
+
+## Affiliation(s)
+- ACM ITICSE Working Group on Cloud Computing Education (2021 - Present)
 
 ## Publications
 
