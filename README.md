@@ -11,6 +11,8 @@ Technology Consultant and Software Engineer.
 - Application Development Consultant at MCAN (2021)
 - Consultant, Solutions Development at Ontario Ministry of Transportation (2021)
 - Software Developer at Ontario Ministry of Health (2019 - 2020)
+- Software Engineer at UR Concierge Services Inc (2019)
+- Frontend GUI Engineer at Deckchair Learning (2019)
 
 ## Affiliation(s)
 - ACM ITICSE Working Group on Cloud Computing Education (2021 - Present)
