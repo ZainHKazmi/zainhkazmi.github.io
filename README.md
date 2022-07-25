@@ -20,7 +20,7 @@ Technology Consultant and Software Engineer.
 ## Publications
 - [Embedding Vendor Certifications in the Cloud Computing Curriculum: Scope, Strategy and Perceptions](https://dl.acm.org/doi/10.1145/3502717.3532165) \
 James H. Paterson, Joshua Adams, Derek Foster, Ouldooz Baghban Karimi, Zain Kazmi, Ruth G. Lennon, Sajid Nazir, Lee Stott, Laurie White \
-Proceedings of the 2022 Working Group Reports on Innovation and Technology in Computer Sceince Education 2022
+Proceedings of the 27th ACM Conference on Innovation and Technology in Computer Sceince Education 2022
 
 - [Designing Dissemination and Validation of a Framework for Teaching Cloud Fundamentals](https://dl.acm.org/doi/abs/10.1145/3502870.3506569) \
 James Paterson, Joshua Adams, Laurie White, Andrew Csizmadia, D Cenk Erdil, Derek Foster, Mark Hills, Zain Kazmi, Karthik Kuber, Sajid Nazir, Majd Sakr, Lee Stott \
