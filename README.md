@@ -5,7 +5,7 @@ Technology Consultant and Software Engineer.
 ## Current Position(s)
 
 - Founder & Principal Consultant at Execusoft Solutions Inc. (March 2020 - Present) 
-- Software Engineer at Ontario Health (Feb 2022 - Present)
+- Lead Software Engineer at Ontario Health (Feb 2022 - Present)
 
 ## Past Position(s)
 - Application Development Consultant at MCAN (2021)
