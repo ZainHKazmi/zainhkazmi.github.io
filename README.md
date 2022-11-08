@@ -16,6 +16,8 @@ Technology Consultant and Software Engineer.
 
 ## Affiliation(s)
 - ACM ITICSE Working Group on Cloud Computing Education (2021 - Present)
+- Society of Research Software Engineering (2022 - Present)
+- United State Research Software Engineering Association (2022 - Present)
 
 ## Publications
 - [Embedding Vendor Certifications in the Cloud Computing Curriculum: Scope, Strategy and Perceptions](https://dl.acm.org/doi/10.1145/3502717.3532165) \
