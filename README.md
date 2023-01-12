@@ -20,6 +20,10 @@ Technology Consultant and Software Engineer.
 - United States Research Software Engineering Association (2022 - Present)
 
 ## Publications
+- [Motivation and Strategies for Effective Inclusion of Cloud Solution Provider Certifications in Computing Curricula](https://dl.acm.org/doi/abs/10.1145/3571785.3574128)\
+James H Paterson, Joshua Adams, Derek Foster, Ouldooz Baghban Karimi, Zain Kazmi, Ruth G Lennon, Sajid Nazir, Lee Stott, Laurie White \
+Proceedings of the 2022 Working Group Reports on Innovation and Technology in Computer Science Education
+
 - [Embedding Vendor Certifications in the Cloud Computing Curriculum: Scope, Strategy and Perceptions](https://dl.acm.org/doi/10.1145/3502717.3532165) \
 James H. Paterson, Joshua Adams, Derek Foster, Ouldooz Baghban Karimi, Zain Kazmi, Ruth G. Lennon, Sajid Nazir, Lee Stott, Laurie White \
 Proceedings of the 27th ACM Conference on Innovation and Technology in Computer Sceince Education 2022
