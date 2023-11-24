@@ -5,9 +5,9 @@ Technology Consultant and Software Engineer.
 ## Current Position(s)
 
 - Founder & Principal Consultant at Execusoft Solutions Inc. (March 2020 - Present) 
-- Lead Software Engineer at Ontario Health (Feb 2022 - Present)
 
 ## Past Position(s)
+- Lead Software Engineer at Ontario Health (Feb 2022 - Jun 2023)
 - Application Development Consultant at MCAN (2021)
 - Consultant, Solutions Development at Ontario Ministry of Transportation (2021)
 - Software Developer at Ontario Ministry of Health (2019 - 2020)
@@ -20,6 +20,10 @@ Technology Consultant and Software Engineer.
 - United States Research Software Engineering Association (2022 - Present)
 
 ## Publications
+- [Where's the Data? Exploring Datasets in Computing Education](https://dl.acm.org/doi/10.1145/3617650.3624951)\
+Natalie Kiesler, John Impagliazzo, Katarzyna Biernacka, Amanpreet Kapoor, Zain Kazmi, Sujeeth Goud Ramagoni, Aamod Sane, Keith Tran, Shubbhi Taneja, Zihan Wu \
+CompEd 2023: Proceedings of the ACM Conference on Global Computing Education Vol 2
+
 - [Motivation and Strategies for Effective Inclusion of Cloud Solution Provider Certifications in Computing Curricula](https://dl.acm.org/doi/abs/10.1145/3571785.3574128)\
 James H Paterson, Joshua Adams, Derek Foster, Ouldooz Baghban Karimi, Zain Kazmi, Ruth G Lennon, Sajid Nazir, Lee Stott, Laurie White \
 Proceedings of the 2022 Working Group Reports on Innovation and Technology in Computer Science Education 2022
